@@ -15,7 +15,7 @@ Sou um entusiasta em desenvolvimento mobile, com conhecimento em React Native e,
 </details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastiaoMeneguci&langs_count=8&layout=compact&theme=vue&locale=pt-Br)](https://github.com/SebastiaoMeneguci/github-readme-stats)
-[![SebastiaoMeneguci GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastiaoMeneguci&include_all_commits=true&count_private=true&theme=vue&show_icons=true&locale=pt-Br)](https://github.com/SebastiaoMeneguci/github-readme-stats)
+[![SebastiaoMeneguci GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastiaoMeneguci&include_all_commits=true&count_private=true&theme=dark&show_icons=true&locale=pt-Br)](https://github.com/SebastiaoMeneguci/github-readme-stats)
 
 ## 🧰 Linguagens e Ferramentas | Languages and Tools:
 <p align="center">

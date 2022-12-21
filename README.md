@@ -20,6 +20,7 @@ Sou um entusiasta em desenvolvimento mobile, com conhecimento em React Native e,
 ## 🧰 Linguagens e Ferramentas | Languages and Tools:
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
